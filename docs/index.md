@@ -18,4 +18,4 @@ docs/
     ...       # Other markdown pages, images and other files.
 ```
 
-Hosted
+_Hosted by holocron.so_
